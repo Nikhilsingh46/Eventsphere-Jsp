@@ -22,4 +22,4 @@ A Collaborative Event Management Platform built using **JSP, Java, MySQL, HTML, 
 4. Run on Server
 
 ## Author
-**Nikhil Kumar**
+**Nikhil**
